@@ -1,0 +1,18 @@
+{
+  "source_file": "real_india_salary_dataset.csv",
+  "source_type": "real",
+  "prepared_file": "enhanced_salary_data.csv",
+  "rows": 6702,
+  "features": [
+    "Age",
+    "Gender",
+    "Education Level",
+    "Job Title",
+    "Years of Experience",
+    "Location",
+    "Company Type",
+    "Industry"
+  ],
+  "best_model": "RandomForest",
+  "rmse": 237137.90748315796
+}
